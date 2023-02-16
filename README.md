@@ -1,6 +1,6 @@
 Mediveroo
 
-Mediveroo is a Fake web application that helps users to order medicine from nearby pharmacies. The application is built using ReactJS with ChakraUI for the frontend, and Prisma and SQL for the backend.
+Mediveroo is a FAKE web application that helps users to order medicine from nearby pharmacies. The application is built using ReactJS with ChakraUI for the frontend, and Prisma and SQL for the backend.
 Installation
 
 To run the application, please follow the instructions below:
